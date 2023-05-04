@@ -1,0 +1,15 @@
+************************** EDA **************************
+Hay que hacer mas graficos y ver e detalle cada columna 
+Hay que ver todas las clases que tiene un feature categorico
+Hay que ver si hay nulos.
+Hay que ver la distribucion features numericos
+
+
+
+************************** PREPROCESMIENTO **************************
+Si la columna tiene mas de 80% de nulo se elimina
+Si la fila tiene mas de 80% de nulo se elimina
+
+Las columnas time hay que convertirlas a HORA, MINUTO, SEGUNDO
+
+Si hay variable categoricas muy desbalanceadas hay que considerar eliminarlas
